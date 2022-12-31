@@ -1,0 +1,1 @@
+Documentation on this project can be found on my [website](https://zpseudonym.github.io/projects/2022/11/28/security-focused-password-manager-in-python/).
